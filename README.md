@@ -129,7 +129,7 @@ This project demonstrates:
 Yogi Charan Sharma
 
 Portfolio:
-https://yogicharanportfolio.netlify.app/
+https://yogicharansharmaportfolio.netlify.app/
 
 LinkedIn:
 https://www.linkedin.com/in/yogi-charan-sharma-235b62282
