@@ -76,7 +76,7 @@ ocean-explorer-3d/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ocean-explorer-3d.git
+git clone https://github.com/yogicharan2828-coder/ocean-explorer-3d.git
 ```
 
 Navigate to the project directory:
